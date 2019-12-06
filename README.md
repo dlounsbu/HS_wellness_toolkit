@@ -1,4 +1,4 @@
-# High School wellness Toolkit 
+# High School Wellness Toolkit 
 
 This repository includes materials to support wellness programming in US high schools via a participatory research project funded by the National Institute of Diabetes and Digestive and Kidney Diseases  (NIDDK R01 DK097096; Wylie-Rossett, PI). 
 
