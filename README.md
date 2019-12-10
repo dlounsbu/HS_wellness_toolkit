@@ -9,8 +9,8 @@ This repository includes materials to support wellness programming in US high sc
 With <b>HealthCorp</b> http://www.healthcorps.org and <b>FamilyCookProductions</b> http://familycookproductions.org/, researchers at the Albert Einstein College of Medicine http://www.einstein.yu.edu/faculty/7388/judith-wylie-rosett/ developed and tested school-based activities that foster behavior change consistent with the HSS/USDA Dietary Guidelines for adolescents. Focusing on activities that would help develop the school’s collaborative capacity and its students’ skill-based learning, the project’s partners worked to design and pilot a multi-component toolkit for wellness programming in diverse high schools.
 
 For further informaiton or assistance, please contact:<br>
-David W. Lounsbury, PhD, Co-Investigator
-Epidemiology & Population Health
-Division of Health Behavior Research and Implementation Science
-Albert Einstein College of Medicine
-David.Lounsbury@einsteinmed.org e-mail
+David W. Lounsbury, PhD, Co-Investigator<br>
+Epidemiology & Population Health<br>
+Division of Health Behavior Research and Implementation Science<br>
+Albert Einstein College of Medicine<br>
+David.Lounsbury@einsteinmed.org e-mail<br>
