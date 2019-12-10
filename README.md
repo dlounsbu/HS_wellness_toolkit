@@ -13,7 +13,7 @@ To download a copy of all files shared in this respository to your device, click
 <img src = "https://github.com/dlounsbu/HS_wellness_toolkit/blob/master/dl.PNG"
      height = "200" width = "400">  <br>
 
-<b>For further informaiton or assistance, please contact:</b><br>
+<b>For further assistance, please contact:</b><br>
 David W. Lounsbury, PhD, Co-Investigator<br>
 Department of Epidemiology & Population Health<br>
 Division of Health Behavior Research and Implementation Science<br>
