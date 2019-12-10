@@ -6,5 +6,12 @@
 
 This repository includes materials to support wellness programming in US high schools via a participatory research project funded by the National Institute of Diabetes and Digestive and Kidney Diseases  (NIDDK R01 DK097096; Wylie-Rosett, PI). 
 
-With <b>HealthCorp</b> http://www.healthcorps.org and FamilyCookProductions http://familycookproductions.org/, researchers at the Albert Einstein College of Medicine developed and tested school-based activities that foster behavior change consistent with the HSS/USDA Dietary Guidelines for adolescents. Focusing on activities that would help develop the school’s collaborative capacity and its students’ skill-based learning, the project’s partners worked to design and pilot a multi-component toolkit for wellness programming in diverse high schools.
+With <b>HealthCorp</b> http://www.healthcorps.org and <b>FamilyCookProductions</b> http://familycookproductions.org/, researchers at the Albert Einstein College of Medicine http://www.einstein.yu.edu/faculty/7388/judith-wylie-rosett/ developed and tested school-based activities that foster behavior change consistent with the HSS/USDA Dietary Guidelines for adolescents. Focusing on activities that would help develop the school’s collaborative capacity and its students’ skill-based learning, the project’s partners worked to design and pilot a multi-component toolkit for wellness programming in diverse high schools.
 
+For further informaiton or assistance, please contact: 
+David W. Lounsbury, PhD
+Assistant Professor, Epidemiology & Population Health
+Associate Director, Patient-Centered Outcomes Research Training
+Division of Health Behavior Research and Implementation Science
+Albert Einstein College of Medicine
+David.Lounsbury@einsteinmed.org e-mail
