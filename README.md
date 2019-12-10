@@ -1,6 +1,6 @@
 # Appendix
 ## Chapter 11 - Using Systems Thinking to Promote Wellness Program Planning and Implementation in Urban High SchoolsHigh School Wellness Toolkit
-## In Innovations in Collaborative Modeling. East Lansing, MI: Michigan State University Press.
+## In <u>Innovations in Collaborative Modeling. East Lansing, MI: Michigan State University Press</u>
 
 <b>Lounsbury DW. Fredericks L. Jimenez C. Martin SN. Lim J. Nimmer K. Heo M. Levine R. Bouchard M. Wylie-Rosett J. (2019; McNall, Editor). </b>
 
