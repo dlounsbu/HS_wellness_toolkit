@@ -15,7 +15,7 @@ To download a copy of all files shared in this respository to your device, click
 
 <b>For further informaiton or assistance, please contact:</b><br>
 David W. Lounsbury, PhD, Co-Investigator<br>
-Epidemiology & Population Health<br>
+Department of Epidemiology & Population Health<br>
 Division of Health Behavior Research and Implementation Science<br>
-Albert Einstein College of Medicine<br>
+Albert Einstein College of Medicine, Bronx, New York USA<br>
 David.Lounsbury@einsteinmed.org e-mail<br>
