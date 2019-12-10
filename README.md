@@ -11,7 +11,7 @@ With <b>HealthCorp</b> http://www.healthcorps.org and <b>FamilyCookProductions</
 To download a copy of this respository to your device, click on the green button:<br>
 
 <img src = "https://github.com/dlounsbu/HS_wellness_toolkit/blob/master/dl.PNG"
-     height = "200" width = "300">  <br>
+     height = "200" width = "400">  <br>
 
 For further informaiton or assistance, please contact:<br>
 David W. Lounsbury, PhD, Co-Investigator<br>
