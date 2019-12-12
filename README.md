@@ -2,7 +2,6 @@
 ## Appendix to accompany <i>Chapter 11</i> (last updated 2019-12-12)
 ### Using Systems Thinking to Promote Wellness Program Planning and Implementation in Urban High SchoolsHigh School Wellness Toolkit (pp.241-266)
 ### <i>Innovations in Collaborative Modeling</i> (2019). McNall, M. (Editor). East Lansing, MI: Michigan State University Press. 
-
 ### <b>Lounsbury DW. Fredericks L. Jimenez C. Martin SN. Lim J. Nimmer K. Heo M. Levine R. Bouchard M. Wylie-Rosett J. </b>
 
 <b>HealthCorp</b> http://www.healthcorps.org and <b>FamilyCookProductions</b> http://familycookproductions.org/ - along with many students, teachers, and parents from participating schools - joined with researchers at the <b>Albert Einstein College of Medicine</b> https://www.einstein.yu.edu/about/ to create and test school-based activities that foster behavior change consistent with the HHS/USDA Dietary Guidelines for adolescents https://health.gov/dietaryguidelines/. Focusing on activities that would help develop the school’s collaborative capacity and its students’ skill-based learning, the project’s partners worked to design and pilot a multi-component toolkit for wellness programming in diverse high schools.
