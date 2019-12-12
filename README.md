@@ -1,5 +1,5 @@
-## This repository includes materials to support wellness programming in US high schools. These materials are the product of a participatory research project funded by the National Institute of Diabetes and Digestive and Kidney Diseases  (NIDDK R01 DK097096; Wylie-Rosett, PI). 
-### <i>Appendix</i> to accompany <i>Chapter 11</i> in <i>Innovations in Collaborative Modeling</i> (2019). McNall, M. (Editor). East Lansing, MI: Michigan State University Press. (last updated 2019-12-12)
+## This repository includes materials to support wellness programming in US high schools. These materials are the product of a participatory research project funded by the National Institute of Diabetes and Digestive and Kidney Diseases  (NIDDK R01 DK097096; Wylie-Rosett, PI). [last updated 2019-12-12]
+### <i>Appendix</i> to accompany <i>Chapter 11</i> in <i>Innovations in Collaborative Modeling</i> (2019). McNall, M. (Editor). East Lansing, MI: Michigan State University Press. 
 ### <i>Using Systems Thinking to Promote Wellness Program Planning and Implementation in Urban High SchoolsHigh School Wellness Toolkit (pp.241-266)</i>
 ### <b>Lounsbury DW. Fredericks L. Jimenez C. Martin SN. Lim J. Nimmer K. Heo M. Levine R. Bouchard M. Wylie-Rosett J. </b>
 
