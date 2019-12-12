@@ -1,6 +1,3 @@
-<img src = "https://github.com/dlounsbu/HS_wellness_toolkit/blob/master/NIDDK-BWFL.png"
-     height = "130" width = "900">  <br>
-
 ## Appendix (last updated 2019-12-10)
 ### <i>Chapter 11</i> Using Systems Thinking to Promote Wellness Program Planning and Implementation in Urban High SchoolsHigh School Wellness Toolkit (pp.241-266)
 ### <i>Innovations in Collaborative Modeling</i> (2019). McNall, M. (Editor). East Lansing, MI: Michigan State University Press. 
