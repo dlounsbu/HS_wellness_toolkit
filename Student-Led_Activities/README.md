@@ -5,3 +5,4 @@
 3. Cafe-o-Yea (COY) Student Evaluation Form
 4. Cafe-o-Yea (COY) Overview (slide set) 
 
+For more information about these student-led activities, contact FamilyCook Productions (http://familycookproductions.org/)
