@@ -15,4 +15,4 @@ David W. Lounsbury, PhD, Co-Investigator<br>
 Department of Epidemiology & Population Health<br>
 Division of Health Behavior Research and Implementation Science<br>
 Albert Einstein College of Medicine, Bronx, New York USA<br>
-David.Lounsbury@einsteinmed.org <br>
+David.Lounsbury@einsteinmed.edu <br>
